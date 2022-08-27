@@ -5,4 +5,4 @@ Proyecto de presupuesto semanal con calculo de gastos y alertas según el porcen
 https://carrito-compra-universidad.netlify.app
 
 ### :tv: Home Screen
-![home](/assets/gasto.png)
+![home](/assets/gastos.png)
